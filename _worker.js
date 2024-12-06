@@ -5,7 +5,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-// How to generate your own UUID:
+// How to generate your own UUID
 // https://www.uuidgenerator.net/
 let userID = 'db04a059-67cd-4357-b9a9-c37b0ae32299';
 
